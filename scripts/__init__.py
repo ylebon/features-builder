@@ -1,0 +1,2 @@
+class FeatureScript(object):
+    pass

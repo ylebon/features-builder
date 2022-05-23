@@ -1,0 +1,323 @@
+[profit_300__profit_rolling_cov__5m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.5m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.5m",]
+
+[profit_600__profit_rolling_cov__5m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.5m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.5m",]
+
+[profit_1200__profit_rolling_cov__5m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.5m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.5m",]
+
+[profit_300__profit_rolling_cov__10m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.10m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.10m",]
+
+[profit_600__profit_rolling_cov__10m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.10m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.10m",]
+
+[profit_1200__profit_rolling_cov__10m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.10m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.10m",]
+
+[profit_300__profit_rolling_cov__15m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.15m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.15m",]
+
+[profit_600__profit_rolling_cov__15m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.15m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.15m",]
+
+[profit_1200__profit_rolling_cov__15m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.15m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.15m",]
+
+[profit_300__profit_rolling_cov__20m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.20m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.20m",]
+
+[profit_600__profit_rolling_cov__20m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.20m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.20m",]
+
+[profit_1200__profit_rolling_cov__20m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.20m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.20m",]
+
+[profit_300__profit_rolling_cov__25m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.25m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.25m",]
+
+[profit_600__profit_rolling_cov__25m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.25m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.25m",]
+
+[profit_1200__profit_rolling_cov__25m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.25m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.25m",]
+
+[profit_300__profit_rolling_cov__30m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.30m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.30m",]
+
+[profit_600__profit_rolling_cov__30m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.30m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.30m",]
+
+[profit_1200__profit_rolling_cov__30m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.30m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.30m",]
+
+[profit_300__profit_rolling_cov__35m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.35m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.35m",]
+
+[profit_600__profit_rolling_cov__35m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.35m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.35m",]
+
+[profit_1200__profit_rolling_cov__35m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.35m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.35m",]
+
+[profit_300__profit_rolling_cov__40m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.40m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.40m",]
+
+[profit_600__profit_rolling_cov__40m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.40m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.40m",]
+
+[profit_1200__profit_rolling_cov__40m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.40m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.40m",]
+
+[profit_300__profit_rolling_cov__45m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.45m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.45m",]
+
+[profit_600__profit_rolling_cov__45m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.45m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.45m",]
+
+[profit_1200__profit_rolling_cov__45m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.45m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.45m",]
+
+[profit_300__profit_rolling_cov__50m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.50m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.50m",]
+
+[profit_600__profit_rolling_cov__50m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.50m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.50m",]
+
+[profit_1200__profit_rolling_cov__50m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.50m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.50m",]
+
+[profit_300__profit_rolling_cov__55m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.55m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.55m",]
+
+[profit_600__profit_rolling_cov__55m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.55m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.55m",]
+
+[profit_1200__profit_rolling_cov__55m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.55m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.55m",]
+
+[profit_300__profit_rolling_cov__60m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_300", "@profit_rolling_cov", "@profit_rolling_cov.60m", "@profit_300.profit_rolling_cov", "@profit_300.profit_rolling_cov.60m",]
+
+[profit_600__profit_rolling_cov__60m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_600", "@profit_rolling_cov", "@profit_rolling_cov.60m", "@profit_600.profit_rolling_cov", "@profit_600.profit_rolling_cov.60m",]
+
+[profit_1200__profit_rolling_cov__60m]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_cov"
+tags = [ "@profit_1200", "@profit_rolling_cov", "@profit_rolling_cov.60m", "@profit_1200.profit_rolling_cov", "@profit_1200.profit_rolling_cov.60m",]
+
+[profit_300__profit_rolling_cov__5m.params]
+shift = 300
+window = "300s"
+
+[profit_600__profit_rolling_cov__5m.params]
+shift = 600
+window = "300s"
+
+[profit_1200__profit_rolling_cov__5m.params]
+shift = 1200
+window = "300s"
+
+[profit_300__profit_rolling_cov__10m.params]
+shift = 300
+window = "600s"
+
+[profit_600__profit_rolling_cov__10m.params]
+shift = 600
+window = "600s"
+
+[profit_1200__profit_rolling_cov__10m.params]
+shift = 1200
+window = "600s"
+
+[profit_300__profit_rolling_cov__15m.params]
+shift = 300
+window = "900s"
+
+[profit_600__profit_rolling_cov__15m.params]
+shift = 600
+window = "900s"
+
+[profit_1200__profit_rolling_cov__15m.params]
+shift = 1200
+window = "900s"
+
+[profit_300__profit_rolling_cov__20m.params]
+shift = 300
+window = "1200s"
+
+[profit_600__profit_rolling_cov__20m.params]
+shift = 600
+window = "1200s"
+
+[profit_1200__profit_rolling_cov__20m.params]
+shift = 1200
+window = "1200s"
+
+[profit_300__profit_rolling_cov__25m.params]
+shift = 300
+window = "1500s"
+
+[profit_600__profit_rolling_cov__25m.params]
+shift = 600
+window = "1500s"
+
+[profit_1200__profit_rolling_cov__25m.params]
+shift = 1200
+window = "1500s"
+
+[profit_300__profit_rolling_cov__30m.params]
+shift = 300
+window = "1800s"
+
+[profit_600__profit_rolling_cov__30m.params]
+shift = 600
+window = "1800s"
+
+[profit_1200__profit_rolling_cov__30m.params]
+shift = 1200
+window = "1800s"
+
+[profit_300__profit_rolling_cov__35m.params]
+shift = 300
+window = "2100s"
+
+[profit_600__profit_rolling_cov__35m.params]
+shift = 600
+window = "2100s"
+
+[profit_1200__profit_rolling_cov__35m.params]
+shift = 1200
+window = "2100s"
+
+[profit_300__profit_rolling_cov__40m.params]
+shift = 300
+window = "2400s"
+
+[profit_600__profit_rolling_cov__40m.params]
+shift = 600
+window = "2400s"
+
+[profit_1200__profit_rolling_cov__40m.params]
+shift = 1200
+window = "2400s"
+
+[profit_300__profit_rolling_cov__45m.params]
+shift = 300
+window = "2700s"
+
+[profit_600__profit_rolling_cov__45m.params]
+shift = 600
+window = "2700s"
+
+[profit_1200__profit_rolling_cov__45m.params]
+shift = 1200
+window = "2700s"
+
+[profit_300__profit_rolling_cov__50m.params]
+shift = 300
+window = "3000s"
+
+[profit_600__profit_rolling_cov__50m.params]
+shift = 600
+window = "3000s"
+
+[profit_1200__profit_rolling_cov__50m.params]
+shift = 1200
+window = "3000s"
+
+[profit_300__profit_rolling_cov__55m.params]
+shift = 300
+window = "3300s"
+
+[profit_600__profit_rolling_cov__55m.params]
+shift = 600
+window = "3300s"
+
+[profit_1200__profit_rolling_cov__55m.params]
+shift = 1200
+window = "3300s"
+
+[profit_300__profit_rolling_cov__60m.params]
+shift = 300
+window = "3600s"
+
+[profit_600__profit_rolling_cov__60m.params]
+shift = 600
+window = "3600s"
+
+[profit_1200__profit_rolling_cov__60m.params]
+shift = 1200
+window = "3600s"

@@ -1,0 +1,95 @@
+[expected_profit_rolling__5m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.5m",]
+
+[expected_profit_rolling__10m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.10m",]
+
+[expected_profit_rolling__15m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.15m",]
+
+[expected_profit_rolling__20m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.20m",]
+
+[expected_profit_rolling__25m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.25m",]
+
+[expected_profit_rolling__30m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.30m",]
+
+[expected_profit_rolling__35m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.35m",]
+
+[expected_profit_rolling__40m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.40m",]
+
+[expected_profit_rolling__45m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.45m",]
+
+[expected_profit_rolling__50m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.50m",]
+
+[expected_profit_rolling__55m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.55m",]
+
+[expected_profit_rolling__60m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.expected_profit_rolling"
+tags = [ "@expected_profit_rolling", "@expected_profit_rolling.60m",]
+
+[expected_profit_rolling__5m.params]
+shift = 300
+
+[expected_profit_rolling__10m.params]
+shift = 600
+
+[expected_profit_rolling__15m.params]
+shift = 900
+
+[expected_profit_rolling__20m.params]
+shift = 1200
+
+[expected_profit_rolling__25m.params]
+shift = 1500
+
+[expected_profit_rolling__30m.params]
+shift = 1800
+
+[expected_profit_rolling__35m.params]
+shift = 2100
+
+[expected_profit_rolling__40m.params]
+shift = 2400
+
+[expected_profit_rolling__45m.params]
+shift = 2700
+
+[expected_profit_rolling__50m.params]
+shift = 3000
+
+[expected_profit_rolling__55m.params]
+shift = 3300
+
+[expected_profit_rolling__60m.params]
+shift = 3600

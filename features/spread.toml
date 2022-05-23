@@ -1,0 +1,6 @@
+[spread]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread"
+tags = [ "@spread", "@variation",]
+
+[spread.params]

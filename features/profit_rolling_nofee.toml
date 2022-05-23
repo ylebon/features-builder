@@ -1,0 +1,95 @@
+[profit_300__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_300", "@profit_rolling_nofee", "@profit_300.profit_rolling_nofee",]
+
+[profit_600__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_600", "@profit_rolling_nofee", "@profit_600.profit_rolling_nofee",]
+
+[profit_900__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_900", "@profit_rolling_nofee", "@profit_900.profit_rolling_nofee",]
+
+[profit_1200__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_1200", "@profit_rolling_nofee", "@profit_1200.profit_rolling_nofee",]
+
+[profit_1500__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_1500", "@profit_rolling_nofee", "@profit_1500.profit_rolling_nofee",]
+
+[profit_1800__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_1800", "@profit_rolling_nofee", "@profit_1800.profit_rolling_nofee",]
+
+[profit_2100__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_2100", "@profit_rolling_nofee", "@profit_2100.profit_rolling_nofee",]
+
+[profit_2400__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_2400", "@profit_rolling_nofee", "@profit_2400.profit_rolling_nofee",]
+
+[profit_2700__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_2700", "@profit_rolling_nofee", "@profit_2700.profit_rolling_nofee",]
+
+[profit_3000__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_3000", "@profit_rolling_nofee", "@profit_3000.profit_rolling_nofee",]
+
+[profit_3300__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_3300", "@profit_rolling_nofee", "@profit_3300.profit_rolling_nofee",]
+
+[profit_3600__profit_rolling_nofee]
+columns = [ "bid_price", "ask_price",]
+module = "features.scripts.profit_rolling_nofee"
+tags = [ "@profit_3600", "@profit_rolling_nofee", "@profit_3600.profit_rolling_nofee",]
+
+[profit_300__profit_rolling_nofee.params]
+shift = 300
+
+[profit_600__profit_rolling_nofee.params]
+shift = 600
+
+[profit_900__profit_rolling_nofee.params]
+shift = 900
+
+[profit_1200__profit_rolling_nofee.params]
+shift = 1200
+
+[profit_1500__profit_rolling_nofee.params]
+shift = 1500
+
+[profit_1800__profit_rolling_nofee.params]
+shift = 1800
+
+[profit_2100__profit_rolling_nofee.params]
+shift = 2100
+
+[profit_2400__profit_rolling_nofee.params]
+shift = 2400
+
+[profit_2700__profit_rolling_nofee.params]
+shift = 2700
+
+[profit_3000__profit_rolling_nofee.params]
+shift = 3000
+
+[profit_3300__profit_rolling_nofee.params]
+shift = 3300
+
+[profit_3600__profit_rolling_nofee.params]
+shift = 3600
