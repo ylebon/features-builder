@@ -1,0 +1,95 @@
+[spread_rolling_cov__5m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__10m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__15m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__20m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__25m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__30m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__35m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__40m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__45m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__50m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__55m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__60m]
+columns = [ "ask_price", "bid_price",]
+module = "features.scripts.spread_rolling_cov"
+tags = [ "@spread_rolling_cov", "@spread_rolling_cov.5m",]
+
+[spread_rolling_cov__5m.params]
+window = "300s"
+
+[spread_rolling_cov__10m.params]
+window = "600s"
+
+[spread_rolling_cov__15m.params]
+window = "900s"
+
+[spread_rolling_cov__20m.params]
+window = "1200s"
+
+[spread_rolling_cov__25m.params]
+window = "1500s"
+
+[spread_rolling_cov__30m.params]
+window = "1800s"
+
+[spread_rolling_cov__35m.params]
+window = "2100s"
+
+[spread_rolling_cov__40m.params]
+window = "2400s"
+
+[spread_rolling_cov__45m.params]
+window = "2700s"
+
+[spread_rolling_cov__50m.params]
+window = "3000s"
+
+[spread_rolling_cov__55m.params]
+window = "3300s"
+
+[spread_rolling_cov__60m.params]
+window = "3600s"

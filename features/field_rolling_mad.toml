@@ -1,0 +1,383 @@
+[ask_price__field_rolling_mad__5m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.5m", "@price.field_rolling_mad", "@price.field_rolling_mad.5m",]
+
+[ask_price__field_rolling_mad__10m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.10m", "@price.field_rolling_mad", "@price.field_rolling_mad.10m",]
+
+[ask_price__field_rolling_mad__15m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.15m", "@price.field_rolling_mad", "@price.field_rolling_mad.15m",]
+
+[ask_price__field_rolling_mad__20m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.20m", "@price.field_rolling_mad", "@price.field_rolling_mad.20m",]
+
+[ask_price__field_rolling_mad__25m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.25m", "@price.field_rolling_mad", "@price.field_rolling_mad.25m",]
+
+[ask_price__field_rolling_mad__30m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.30m", "@price.field_rolling_mad", "@price.field_rolling_mad.30m",]
+
+[ask_price__field_rolling_mad__35m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.35m", "@price.field_rolling_mad", "@price.field_rolling_mad.35m",]
+
+[ask_price__field_rolling_mad__40m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.40m", "@price.field_rolling_mad", "@price.field_rolling_mad.40m",]
+
+[ask_price__field_rolling_mad__45m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.45m", "@price.field_rolling_mad", "@price.field_rolling_mad.45m",]
+
+[ask_price__field_rolling_mad__50m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.50m", "@price.field_rolling_mad", "@price.field_rolling_mad.50m",]
+
+[ask_price__field_rolling_mad__55m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.55m", "@price.field_rolling_mad", "@price.field_rolling_mad.55m",]
+
+[ask_price__field_rolling_mad__60m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_price.field_rolling_mad", "@ask_price.field_rolling_mad.60m", "@price.field_rolling_mad", "@price.field_rolling_mad.60m",]
+
+[bid_price__field_rolling_mad__5m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.5m", "@price.field_rolling_mad", "@price.field_rolling_mad.5m",]
+
+[bid_price__field_rolling_mad__10m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.10m", "@price.field_rolling_mad", "@price.field_rolling_mad.10m",]
+
+[bid_price__field_rolling_mad__15m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.15m", "@price.field_rolling_mad", "@price.field_rolling_mad.15m",]
+
+[bid_price__field_rolling_mad__20m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.20m", "@price.field_rolling_mad", "@price.field_rolling_mad.20m",]
+
+[bid_price__field_rolling_mad__25m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.25m", "@price.field_rolling_mad", "@price.field_rolling_mad.25m",]
+
+[bid_price__field_rolling_mad__30m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.30m", "@price.field_rolling_mad", "@price.field_rolling_mad.30m",]
+
+[bid_price__field_rolling_mad__35m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.35m", "@price.field_rolling_mad", "@price.field_rolling_mad.35m",]
+
+[bid_price__field_rolling_mad__40m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.40m", "@price.field_rolling_mad", "@price.field_rolling_mad.40m",]
+
+[bid_price__field_rolling_mad__45m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.45m", "@price.field_rolling_mad", "@price.field_rolling_mad.45m",]
+
+[bid_price__field_rolling_mad__50m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.50m", "@price.field_rolling_mad", "@price.field_rolling_mad.50m",]
+
+[bid_price__field_rolling_mad__55m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.55m", "@price.field_rolling_mad", "@price.field_rolling_mad.55m",]
+
+[bid_price__field_rolling_mad__60m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_price.field_rolling_mad", "@bid_price.field_rolling_mad.60m", "@price.field_rolling_mad", "@price.field_rolling_mad.60m",]
+
+[bid_qty__field_rolling_mad__5m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.5m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.5m",]
+
+[bid_qty__field_rolling_mad__10m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.10m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.10m",]
+
+[bid_qty__field_rolling_mad__15m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.15m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.15m",]
+
+[bid_qty__field_rolling_mad__20m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.20m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.20m",]
+
+[bid_qty__field_rolling_mad__25m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.25m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.25m",]
+
+[bid_qty__field_rolling_mad__30m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.30m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.30m",]
+
+[bid_qty__field_rolling_mad__35m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.35m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.35m",]
+
+[bid_qty__field_rolling_mad__40m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.40m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.40m",]
+
+[bid_qty__field_rolling_mad__45m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.45m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.45m",]
+
+[bid_qty__field_rolling_mad__50m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.50m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.50m",]
+
+[bid_qty__field_rolling_mad__55m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.55m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.55m",]
+
+[bid_qty__field_rolling_mad__60m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@bid_qty.field_rolling_mad", "@bid_qty.field_rolling_mad.60m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.60m",]
+
+[ask_qty__field_rolling_mad__5m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.5m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.5m",]
+
+[ask_qty__field_rolling_mad__10m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.10m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.10m",]
+
+[ask_qty__field_rolling_mad__15m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.15m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.15m",]
+
+[ask_qty__field_rolling_mad__20m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.20m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.20m",]
+
+[ask_qty__field_rolling_mad__25m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.25m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.25m",]
+
+[ask_qty__field_rolling_mad__30m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.30m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.30m",]
+
+[ask_qty__field_rolling_mad__35m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.35m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.35m",]
+
+[ask_qty__field_rolling_mad__40m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.40m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.40m",]
+
+[ask_qty__field_rolling_mad__45m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.45m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.45m",]
+
+[ask_qty__field_rolling_mad__50m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.50m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.50m",]
+
+[ask_qty__field_rolling_mad__55m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.55m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.55m",]
+
+[ask_qty__field_rolling_mad__60m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_mad"
+tags = [ "@field_rolling_mad", "@ask_qty.field_rolling_mad", "@ask_qty.field_rolling_mad.60m", "@qty.field_rolling_mad", "@qty.field_rolling_mad.60m",]
+
+[ask_price__field_rolling_mad__5m.params]
+window = "300s"
+
+[ask_price__field_rolling_mad__10m.params]
+window = "600s"
+
+[ask_price__field_rolling_mad__15m.params]
+window = "900s"
+
+[ask_price__field_rolling_mad__20m.params]
+window = "1200s"
+
+[ask_price__field_rolling_mad__25m.params]
+window = "1500s"
+
+[ask_price__field_rolling_mad__30m.params]
+window = "1800s"
+
+[ask_price__field_rolling_mad__35m.params]
+window = "2100s"
+
+[ask_price__field_rolling_mad__40m.params]
+window = "2400s"
+
+[ask_price__field_rolling_mad__45m.params]
+window = "2700s"
+
+[ask_price__field_rolling_mad__50m.params]
+window = "3000s"
+
+[ask_price__field_rolling_mad__55m.params]
+window = "3300s"
+
+[ask_price__field_rolling_mad__60m.params]
+window = "3600s"
+
+[bid_price__field_rolling_mad__5m.params]
+window = "300s"
+
+[bid_price__field_rolling_mad__10m.params]
+window = "600s"
+
+[bid_price__field_rolling_mad__15m.params]
+window = "900s"
+
+[bid_price__field_rolling_mad__20m.params]
+window = "1200s"
+
+[bid_price__field_rolling_mad__25m.params]
+window = "1500s"
+
+[bid_price__field_rolling_mad__30m.params]
+window = "1800s"
+
+[bid_price__field_rolling_mad__35m.params]
+window = "2100s"
+
+[bid_price__field_rolling_mad__40m.params]
+window = "2400s"
+
+[bid_price__field_rolling_mad__45m.params]
+window = "2700s"
+
+[bid_price__field_rolling_mad__50m.params]
+window = "3000s"
+
+[bid_price__field_rolling_mad__55m.params]
+window = "3300s"
+
+[bid_price__field_rolling_mad__60m.params]
+window = "3600s"
+
+[bid_qty__field_rolling_mad__5m.params]
+window = "300s"
+
+[bid_qty__field_rolling_mad__10m.params]
+window = "600s"
+
+[bid_qty__field_rolling_mad__15m.params]
+window = "900s"
+
+[bid_qty__field_rolling_mad__20m.params]
+window = "1200s"
+
+[bid_qty__field_rolling_mad__25m.params]
+window = "1500s"
+
+[bid_qty__field_rolling_mad__30m.params]
+window = "1800s"
+
+[bid_qty__field_rolling_mad__35m.params]
+window = "2100s"
+
+[bid_qty__field_rolling_mad__40m.params]
+window = "2400s"
+
+[bid_qty__field_rolling_mad__45m.params]
+window = "2700s"
+
+[bid_qty__field_rolling_mad__50m.params]
+window = "3000s"
+
+[bid_qty__field_rolling_mad__55m.params]
+window = "3300s"
+
+[bid_qty__field_rolling_mad__60m.params]
+window = "3600s"
+
+[ask_qty__field_rolling_mad__5m.params]
+window = "300s"
+
+[ask_qty__field_rolling_mad__10m.params]
+window = "600s"
+
+[ask_qty__field_rolling_mad__15m.params]
+window = "900s"
+
+[ask_qty__field_rolling_mad__20m.params]
+window = "1200s"
+
+[ask_qty__field_rolling_mad__25m.params]
+window = "1500s"
+
+[ask_qty__field_rolling_mad__30m.params]
+window = "1800s"
+
+[ask_qty__field_rolling_mad__35m.params]
+window = "2100s"
+
+[ask_qty__field_rolling_mad__40m.params]
+window = "2400s"
+
+[ask_qty__field_rolling_mad__45m.params]
+window = "2700s"
+
+[ask_qty__field_rolling_mad__50m.params]
+window = "3000s"
+
+[ask_qty__field_rolling_mad__55m.params]
+window = "3300s"
+
+[ask_qty__field_rolling_mad__60m.params]
+window = "3600s"

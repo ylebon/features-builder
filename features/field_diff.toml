@@ -1,0 +1,27 @@
+[field_diff__ask_price]
+columns = [ "ask_price",]
+module = "features.scripts.field_diff"
+tags = [ "@field_diff", "@field_diff.ask_price", "@variation",]
+
+[field_diff__bid_price]
+columns = [ "bid_price",]
+module = "features.scripts.field_diff"
+tags = [ "@field_diff", "@field_diff.bid_price", "@variation",]
+
+[field_diff__ask_qty]
+columns = [ "ask_qty",]
+module = "features.scripts.field_diff"
+tags = [ "@field_diff", "@field_diff.ask_qty", "@variation",]
+
+[field_diff__bid_qty]
+columns = [ "bid_qty",]
+module = "features.scripts.field_diff"
+tags = [ "@field_diff", "@field_diff.bid_qty", "@variation",]
+
+[field_diff__ask_price.params]
+
+[field_diff__bid_price.params]
+
+[field_diff__ask_qty.params]
+
+[field_diff__bid_qty.params]

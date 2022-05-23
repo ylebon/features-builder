@@ -1,0 +1,39 @@
+[field_date__month]
+columns = [ "date",]
+module = "features.scripts.field_date"
+tags = [ "@field_date", "@field_date.month", "@variation",]
+
+[field_date__day]
+columns = [ "date",]
+module = "features.scripts.field_date"
+tags = [ "@field_date", "@field_date.day", "@variation",]
+
+[field_date__hour]
+columns = [ "date",]
+module = "features.scripts.field_date"
+tags = [ "@field_date", "@field_date.hour", "@variation",]
+
+[field_date__minute]
+columns = [ "date",]
+module = "features.scripts.field_date"
+tags = [ "@field_date", "@field_date.minute", "@variation",]
+
+[field_date__second]
+columns = [ "date",]
+module = "features.scripts.field_date"
+tags = [ "@field_date", "@field_date.second", "@variation",]
+
+[field_date__month.params]
+field = "month"
+
+[field_date__day.params]
+field = "day"
+
+[field_date__hour.params]
+field = "hour"
+
+[field_date__minute.params]
+field = "minute"
+
+[field_date__second.params]
+field = "second"

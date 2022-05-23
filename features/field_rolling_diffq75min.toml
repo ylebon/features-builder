@@ -1,0 +1,383 @@
+[ask_price__field_rolling_diffq75min__5m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.5m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.5m",]
+
+[ask_price__field_rolling_diffq75min__10m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.10m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.10m",]
+
+[ask_price__field_rolling_diffq75min__15m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.15m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.15m",]
+
+[ask_price__field_rolling_diffq75min__20m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.20m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.20m",]
+
+[ask_price__field_rolling_diffq75min__25m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.25m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.25m",]
+
+[ask_price__field_rolling_diffq75min__30m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.30m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.30m",]
+
+[ask_price__field_rolling_diffq75min__35m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.35m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.35m",]
+
+[ask_price__field_rolling_diffq75min__40m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.40m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.40m",]
+
+[ask_price__field_rolling_diffq75min__45m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.45m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.45m",]
+
+[ask_price__field_rolling_diffq75min__50m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.50m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.50m",]
+
+[ask_price__field_rolling_diffq75min__55m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.55m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.55m",]
+
+[ask_price__field_rolling_diffq75min__60m]
+columns = [ "ask_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min", "@ask_price.field_rolling_diffq75min.60m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.60m",]
+
+[bid_price__field_rolling_diffq75min__5m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.5m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.5m",]
+
+[bid_price__field_rolling_diffq75min__10m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.10m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.10m",]
+
+[bid_price__field_rolling_diffq75min__15m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.15m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.15m",]
+
+[bid_price__field_rolling_diffq75min__20m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.20m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.20m",]
+
+[bid_price__field_rolling_diffq75min__25m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.25m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.25m",]
+
+[bid_price__field_rolling_diffq75min__30m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.30m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.30m",]
+
+[bid_price__field_rolling_diffq75min__35m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.35m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.35m",]
+
+[bid_price__field_rolling_diffq75min__40m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.40m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.40m",]
+
+[bid_price__field_rolling_diffq75min__45m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.45m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.45m",]
+
+[bid_price__field_rolling_diffq75min__50m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.50m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.50m",]
+
+[bid_price__field_rolling_diffq75min__55m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.55m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.55m",]
+
+[bid_price__field_rolling_diffq75min__60m]
+columns = [ "bid_price",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min", "@bid_price.field_rolling_diffq75min.60m", "@price.field_rolling_diffq75min", "@price.field_rolling_diffq75min.60m",]
+
+[bid_qty__field_rolling_diffq75min__5m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.5m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.5m",]
+
+[bid_qty__field_rolling_diffq75min__10m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.10m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.10m",]
+
+[bid_qty__field_rolling_diffq75min__15m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.15m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.15m",]
+
+[bid_qty__field_rolling_diffq75min__20m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.20m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.20m",]
+
+[bid_qty__field_rolling_diffq75min__25m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.25m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.25m",]
+
+[bid_qty__field_rolling_diffq75min__30m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.30m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.30m",]
+
+[bid_qty__field_rolling_diffq75min__35m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.35m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.35m",]
+
+[bid_qty__field_rolling_diffq75min__40m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.40m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.40m",]
+
+[bid_qty__field_rolling_diffq75min__45m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.45m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.45m",]
+
+[bid_qty__field_rolling_diffq75min__50m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.50m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.50m",]
+
+[bid_qty__field_rolling_diffq75min__55m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.55m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.55m",]
+
+[bid_qty__field_rolling_diffq75min__60m]
+columns = [ "bid_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min", "@bid_qty.field_rolling_diffq75min.60m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.60m",]
+
+[ask_qty__field_rolling_diffq75min__5m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.5m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.5m",]
+
+[ask_qty__field_rolling_diffq75min__10m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.10m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.10m",]
+
+[ask_qty__field_rolling_diffq75min__15m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.15m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.15m",]
+
+[ask_qty__field_rolling_diffq75min__20m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.20m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.20m",]
+
+[ask_qty__field_rolling_diffq75min__25m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.25m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.25m",]
+
+[ask_qty__field_rolling_diffq75min__30m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.30m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.30m",]
+
+[ask_qty__field_rolling_diffq75min__35m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.35m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.35m",]
+
+[ask_qty__field_rolling_diffq75min__40m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.40m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.40m",]
+
+[ask_qty__field_rolling_diffq75min__45m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.45m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.45m",]
+
+[ask_qty__field_rolling_diffq75min__50m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.50m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.50m",]
+
+[ask_qty__field_rolling_diffq75min__55m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.55m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.55m",]
+
+[ask_qty__field_rolling_diffq75min__60m]
+columns = [ "ask_qty",]
+module = "features.scripts.field_rolling_diffq75min"
+tags = [ "@field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min", "@ask_qty.field_rolling_diffq75min.60m", "@qty.field_rolling_diffq75min", "@qty.field_rolling_diffq75min.60m",]
+
+[ask_price__field_rolling_diffq75min__5m.params]
+window = "300s"
+
+[ask_price__field_rolling_diffq75min__10m.params]
+window = "600s"
+
+[ask_price__field_rolling_diffq75min__15m.params]
+window = "900s"
+
+[ask_price__field_rolling_diffq75min__20m.params]
+window = "1200s"
+
+[ask_price__field_rolling_diffq75min__25m.params]
+window = "1500s"
+
+[ask_price__field_rolling_diffq75min__30m.params]
+window = "1800s"
+
+[ask_price__field_rolling_diffq75min__35m.params]
+window = "2100s"
+
+[ask_price__field_rolling_diffq75min__40m.params]
+window = "2400s"
+
+[ask_price__field_rolling_diffq75min__45m.params]
+window = "2700s"
+
+[ask_price__field_rolling_diffq75min__50m.params]
+window = "3000s"
+
+[ask_price__field_rolling_diffq75min__55m.params]
+window = "3300s"
+
+[ask_price__field_rolling_diffq75min__60m.params]
+window = "3600s"
+
+[bid_price__field_rolling_diffq75min__5m.params]
+window = "300s"
+
+[bid_price__field_rolling_diffq75min__10m.params]
+window = "600s"
+
+[bid_price__field_rolling_diffq75min__15m.params]
+window = "900s"
+
+[bid_price__field_rolling_diffq75min__20m.params]
+window = "1200s"
+
+[bid_price__field_rolling_diffq75min__25m.params]
+window = "1500s"
+
+[bid_price__field_rolling_diffq75min__30m.params]
+window = "1800s"
+
+[bid_price__field_rolling_diffq75min__35m.params]
+window = "2100s"
+
+[bid_price__field_rolling_diffq75min__40m.params]
+window = "2400s"
+
+[bid_price__field_rolling_diffq75min__45m.params]
+window = "2700s"
+
+[bid_price__field_rolling_diffq75min__50m.params]
+window = "3000s"
+
+[bid_price__field_rolling_diffq75min__55m.params]
+window = "3300s"
+
+[bid_price__field_rolling_diffq75min__60m.params]
+window = "3600s"
+
+[bid_qty__field_rolling_diffq75min__5m.params]
+window = "300s"
+
+[bid_qty__field_rolling_diffq75min__10m.params]
+window = "600s"
+
+[bid_qty__field_rolling_diffq75min__15m.params]
+window = "900s"
+
+[bid_qty__field_rolling_diffq75min__20m.params]
+window = "1200s"
+
+[bid_qty__field_rolling_diffq75min__25m.params]
+window = "1500s"
+
+[bid_qty__field_rolling_diffq75min__30m.params]
+window = "1800s"
+
+[bid_qty__field_rolling_diffq75min__35m.params]
+window = "2100s"
+
+[bid_qty__field_rolling_diffq75min__40m.params]
+window = "2400s"
+
+[bid_qty__field_rolling_diffq75min__45m.params]
+window = "2700s"
+
+[bid_qty__field_rolling_diffq75min__50m.params]
+window = "3000s"
+
+[bid_qty__field_rolling_diffq75min__55m.params]
+window = "3300s"
+
+[bid_qty__field_rolling_diffq75min__60m.params]
+window = "3600s"
+
+[ask_qty__field_rolling_diffq75min__5m.params]
+window = "300s"
+
+[ask_qty__field_rolling_diffq75min__10m.params]
+window = "600s"
+
+[ask_qty__field_rolling_diffq75min__15m.params]
+window = "900s"
+
+[ask_qty__field_rolling_diffq75min__20m.params]
+window = "1200s"
+
+[ask_qty__field_rolling_diffq75min__25m.params]
+window = "1500s"
+
+[ask_qty__field_rolling_diffq75min__30m.params]
+window = "1800s"
+
+[ask_qty__field_rolling_diffq75min__35m.params]
+window = "2100s"
+
+[ask_qty__field_rolling_diffq75min__40m.params]
+window = "2400s"
+
+[ask_qty__field_rolling_diffq75min__45m.params]
+window = "2700s"
+
+[ask_qty__field_rolling_diffq75min__50m.params]
+window = "3000s"
+
+[ask_qty__field_rolling_diffq75min__55m.params]
+window = "3300s"
+
+[ask_qty__field_rolling_diffq75min__60m.params]
+window = "3600s"
