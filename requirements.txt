@@ -1,0 +1,7 @@
+pip==22.1.1
+setuptools==60.2.0
+wheel==0.37.1
+logbook==1.4.1
+pydantic==1.9.1
+scikit-learn==1.1.1
+PyHamcrest==2.0.3

@@ -5,7 +5,7 @@ from logbook import Logger
 from pydantic import BaseModel
 from typing import List
 
-from features.scripts import FeatureScript
+from scripts import FeatureScript
 
 
 class FeatureBuilder(BaseModel):
@@ -64,9 +64,9 @@ if __name__ == "__main__":
 
     StreamHandler(sys.stdout).push_application()
     data = {
-        "name": "ask_qty__rolling_mean__300",
+        "name": "ask_qty__field_rolling_mean__300",
         "columns": ["ask_qty"],
-        "module": "features.scripts.rolling_mean",
+        "module": "scripts.field_rolling_mean",
         "params": {
             "window": "300s",
             "resample": "1s"
