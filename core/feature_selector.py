@@ -3,6 +3,7 @@ from dataclasses import dataclass
 
 import toml
 
+from core.feature_loader import FeatureLoader
 
 
 @dataclass
@@ -78,8 +79,6 @@ class FeatureSelector(object):
 
 
 if __name__ == "__main__":
-    names = features_loader = FeatureLoader.get_names(
-        "/Users/madazone/Workspace/varatra/signaler/features/features",
-        tags="@variation"
-    )
+    names = FeatureLoader.get_names(
+        "/Users/ylebon/Workspace/features-builder/features")
     print(names)

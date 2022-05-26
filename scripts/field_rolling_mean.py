@@ -4,8 +4,8 @@ from dataclasses import dataclass
 from logbook import Logger
 from sklearn import preprocessing
 
-from core.candle.candle_element import CandleElement
-from core.candle.candle_rolling import CandleRolling
+from indicators.candle_element import CandleElement
+from indicators.candle_rolling import CandleRolling
 
 
 @dataclass

@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 import toml
 
-from features.core.feature_builder import FeatureBuilder
+from core.feature_builder import FeatureBuilder
 
 
 class FeatureDefinitionNotFound(Exception):
@@ -108,8 +108,8 @@ class FeatureLoader(object):
 
 if __name__ == "__main__":
     names = FeatureLoader.filter_features(
-        "/Users/madazone/Workspace/varatra/signaler/features/features",
-        ["@variation_price", "@date"]
+        "/Users/ylebon/Workspace/features-builder/features",
+        ["@field_diff_rolling_median"]
     )
+
     print(names)
-    print(len(names))
